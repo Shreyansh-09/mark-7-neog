@@ -1,0 +1,1 @@
+This Web App is based on pirate speak language as a part of neogcamp mark-7 project. Go ahead and translate and have some fun!
