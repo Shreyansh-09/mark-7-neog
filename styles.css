@@ -18,8 +18,8 @@ header {
 
 main {
     margin: auto;
-    max-width: 900px;
-    padding: 2rem;
+    max-width: 600px;
+    padding: 1rem;
 }
 
 
@@ -39,11 +39,11 @@ textarea {
 button {
     margin: 0.5rem auto;
     font-family: inherit;
-    /* padding: 2%; */
-    height: 10vh;
+    padding: 2%;
+    /* height: 10vh; */
     font-weight: bold;
-    font-size: x-large;
-    width: 28%;
+    font-size: 25px;
+    width: 32%;
     border-radius: 14px;
     background-color: gray;
     color: black;
