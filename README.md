@@ -1,1 +1,5 @@
-This Web App is based on pirate speak language as a part of neogcamp mark-7 project. Go ahead and translate and have some fun!
+<h1>Pirate Talk App</h1>
+
+https://shreyanshpiratespeak.netlify.app/
+
+This Web App is based on pirate language part of neogcamp mark-7 project. It will convert you sentence into pirate language.
